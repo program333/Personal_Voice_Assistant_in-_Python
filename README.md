@@ -29,6 +29,9 @@ When user give command like "open Youtube and Play Song", the bot will automatic
 6. Weather report
 7. Google map
 8. Time and Date
+9. Open and read file
+10. Stock price
+11. Play music...etc
 
 
 
