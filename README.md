@@ -18,7 +18,7 @@
 
 It's a Voice Assistant Bot using Python.The query for the assistant can be manipulated as per the user’s need. Speech recognition is the process of converting audio into text. This is commonly used in voice assistants like Alexa, Siri, etc. Python provides an API called SpeechRecognition to allow us to convert audio into text for further processing.
 
-When user give command like "open Youtube and Play Kannada Song", the bot will automatically opens youtube and play the song.
+When user give command like "open Youtube and Play Song", the bot will automatically opens youtube and play the song.
 
 
 
