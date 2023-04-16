@@ -20,6 +20,16 @@ It's a Voice Assistant Bot using Python.The query for the assistant can be manip
 
 When user give command like "open Youtube and Play Song", the bot will automatically opens youtube and play the song.
 
+## Features
+1. Remainders
+2. To-do tasks
+3. Google search
+4. Youtube videos
+5. Wikipedia search
+6. Weather report
+7. Google map
+8. Time and Date
+
 
 
 
